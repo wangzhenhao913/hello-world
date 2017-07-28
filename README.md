@@ -1,2 +1,3 @@
 # hello-world
-Github Test
+
+Hi,everyone! I’m Wang. It's my first time to use github.This is a test
